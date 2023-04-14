@@ -1,0 +1,16 @@
+
+.top-r img{
+    height: 600px;
+    object-fit: cover;
+    
+}
+.bottom-r img{
+    height: 600px;
+    object-fit: cover;
+
+}
+.middle-col img{
+    height: 392px;
+    object-fit: cover;
+}
+
